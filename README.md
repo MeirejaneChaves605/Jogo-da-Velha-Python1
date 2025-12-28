@@ -12,5 +12,5 @@
 
 ![Imagens](https://github.com/MeirejaneChaves605/Jogo-da-Velha-Python1/blob/main/Jogo/Imagens/1.PNG?raw=true.PNG)
 ![Imagens](https://github.com/MeirejaneChaves605/Jogo-da-Velha-Python1/blob/main/Jogo/Imagens/2.PNG?raw=true.PNG)
-![Imagens](https://github.com/ArlysthonFeitosa/Jogo-da-velha/blob/master/Imagens/3.PNG)
+![Imagens](https://github.com/MeirejaneChaves605/Jogo-da-Velha-Python1/blob/main/Jogo/Imagens/3.PNG?raw=true.PNG)
 
