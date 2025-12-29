@@ -1,4 +1,4 @@
-## Jogo da velha
+## Jogo-da-Velha-Python1
 
 
 * Escolha a opção 1 para jogar
